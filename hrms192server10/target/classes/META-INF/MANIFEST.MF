@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: user
+Build-Jdk: 10.0.1
+Implementation-Title: hrms192server10
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: kr.co.infopub.hrm
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/hrms192server10
+Created-By: Maven Integration for Eclipse
+

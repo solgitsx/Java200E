@@ -1,0 +1,2 @@
+hrm의 HumanmybatisApplication을 먼저 실행시킨후 
+human client Main실행.txt

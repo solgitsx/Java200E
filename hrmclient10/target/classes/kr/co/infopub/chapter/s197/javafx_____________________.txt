@@ -1,0 +1,4 @@
+RESTfull - from wikipedia
+REST(Representational State Transfer)는 월드 와이드 웹과 같은 분산 하이퍼미디어 시스템을 위한 소프트웨어 아키텍처의 한 형식이다. 
+이 용어는 로이 필딩(Roy Fielding)의 2000년 박사학위 논문에서 소개
+ 

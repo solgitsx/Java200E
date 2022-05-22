@@ -1,0 +1,6 @@
+클라이언트단을 jar로 배포하고 싶다면
+
+executable jar
+Main
+
+java -jar hrmclient.jar
